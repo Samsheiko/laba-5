@@ -64,16 +64,5 @@
 
 
 
-#####<img width="480" height="61" alt="Снимок экрана 2026-03-25 в 8 51 43 AM" src="https://github.com/user-attachments/assets/43ba9b88-0be9-455d-84ad-9557985acdb5" />
-
-
-
-
-
-
-
-
-
-
-
+#####<img width="441" height="85" alt="Снимок экрана 2026-03-25 в 8 53 32 AM" src="https://github.com/user-attachments/assets/3a3f5eb1-c4ef-4597-aa55-4a5a4ce85593" />
 
