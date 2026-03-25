@@ -1,0 +1,16 @@
+% Подсчет ненулевых элементов
+count_nonzero([], 0).
+count_nonzero([H|T], Count) :-
+    count_nonzero(T, RestCount),
+    (   H \= 0 -> Count is RestCount + 1
+    ;   Count is RestCount
+    ).
+
+% Основной процесс
+start :-
+    nl, write('Enter list (e.g. [1,0,2,3].): '),
+    read(L),
+    count_nonzero(L, Result),
+    write('Result: '), write(Result), nl.
+
+:- start.
