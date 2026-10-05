@@ -56,7 +56,8 @@
 ### Тестирование
 
 
-<img width="390" height="240" alt="image" src="https://github.com/user-attachments/assets/0bf23a9e-f792-4de1-ac9a-9db76f620dca" />
+<img width="852" height="396" alt="prolog1" src="https://github.com/user-attachments/assets/0d327db5-f72d-47c4-82ee-cfce28c550c6" />
+
 
 
 
@@ -118,7 +119,8 @@
 
 
 
-<img width="541" height="105" alt="Снимок экрана 2026-03-25 в 9 10 03 AM" src="https://github.com/user-attachments/assets/7221348c-86c3-4707-be94-dc246f9cf893" />
+<img width="361" height="128" alt="image" src="https://github.com/user-attachments/assets/49155809-4836-4f0e-8535-16e189660a84" />
+
 
 
 
